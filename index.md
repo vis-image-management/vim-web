@@ -27,7 +27,7 @@ We address topics ranging from classical rendering and visualization of large im
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/topics.png"
   link="research"
   title="Topics"
   text=text
