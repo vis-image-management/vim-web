@@ -1,7 +1,7 @@
 ---
-title: Example post 3
-author: john-doe
-tags: biology, medicine
+title: 4th Meeting
+author: Fedorov Group
+tags: tools, formats, management, standards
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Please join us Friday, 02/23/2023 11AM ET for a presentation and intertwined discussion about "NCI Imaging Data Commons: Approach, status, related tools".
