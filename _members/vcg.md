@@ -12,4 +12,5 @@ The Visual Computing Group, led by Hanspeter Pfister, explores and provides visu
 {%
   include portrait.html
   lookup="robert-krueger"
+  style="small"
 %}
