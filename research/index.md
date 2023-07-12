@@ -1,5 +1,5 @@
 ---
-title: Research
+title: Inter-Lab Meeting
 nav:
   order: 1
   tooltip: Published works
