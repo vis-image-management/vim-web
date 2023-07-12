@@ -1,7 +1,7 @@
 ---
 name: Robert Krueger
 image: images/robert-krueger.jpg
-description: Lead Organizer
+description: Organizer
 role: organizer
 links:
   home-page: https://kruegert.github.io/
