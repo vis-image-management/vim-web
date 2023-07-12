@@ -11,8 +11,7 @@ Te VIM association currently consists of research institutions, hospital, and op
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+{% include list.html data="members" component="portrait" filters="role: member" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
