@@ -1,6 +1,6 @@
 ---
 title: 8th Meeting
-author: Maek Keller, Jeremy Muhlich
+author: Mark Keller, Jeremy Muhlich
 tags: tools, standards, formats, management
 ---
 
