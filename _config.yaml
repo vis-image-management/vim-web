@@ -31,10 +31,6 @@ defaults:
       type: "members"
     values:
       layout: member
-  - scope:
-      type: "orgas"
-    values:
-      layout: member
   # markdown files in /_posts
   - scope:
       type: "posts"
@@ -44,9 +40,6 @@ defaults:
 collections:
   # generate page for each member
   members:
-    output: true
-  # generate page for each orga
-  orgas:
     output: true
   # generate page for each post
   posts:
