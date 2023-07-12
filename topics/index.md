@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We address topics ranging from classical rendering and visualization of large imaging and spatially referenced feature data to data management topics concerning multiplexed image formats, standards, and platforms hosting.
 
 {% include tags.html tags="publication, resource, website" %}
 
