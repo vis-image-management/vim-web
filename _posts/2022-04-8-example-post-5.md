@@ -1,6 +1,6 @@
 ---
 title: 6th Meeting
-author: Andriy Fedorov, Nils Gehlenborg (lead), Markus Herrmann, John Hoffer (lead), Robert Krueger, Trevor Manz, Jeremy Muhlich, Hanspeter Pfister, Steve Pieper, Simon Warchol, Clarence Yapp
+author: Andriy Fedorov, Markus Herrmann, John Hoffer, Robert Krueger, Trevor Manz, Jeremy Muhlich, Steve Pieper, Clarence Yapp
 tags: tools, visualization, platforms
 ---
 
