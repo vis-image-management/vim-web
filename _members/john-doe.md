@@ -1,10 +1,10 @@
 ---
-name: John Doe
+name: Mark Keller
 image: images/photo.jpg
-role: phd
-group: alum
+role: Organizer
+group: Organizer
 links:
-  github: john-doe
+  github: keller-mark
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Mark Keller is a PH.D. student at the Gehlenborg Lab at Harvard Medical School. His interest lie in biomeidcal image visualization and visual web frameworks and interfaces.
