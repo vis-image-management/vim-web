@@ -1,6 +1,6 @@
 ---
 name: Gehlenborg Lab
-image: images/gehlenborg.jpg
+image: images/gehlenborg.png
 description: Research Lab at Harvard Medical School (HMS)
 role: member
 links:
