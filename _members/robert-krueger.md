@@ -1,5 +1,5 @@
 ---
-name: Jane Smith
+name: Robert Krueger
 image: images/photo.jpg
 role: pi
 aliases:
