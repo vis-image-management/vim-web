@@ -26,7 +26,7 @@
     - hosting
 
 - title: Rendering
-  subtitle: a subtitle
+  subtitle: Scalable Image Rendering
   image: images/rendering.jpg
   link: 
   description: Multi-resolution rendering algorithms and tools to display large and mutliplexed 2D and 3D imaging data in the web.
