@@ -638,19 +638,19 @@ RU5ErkJggg==" />
     
       
         <a
-          href="/vim-web/contact/"
-          data-tooltip="Email, address, and location"
+          href="/vim-web/publications/"
+          data-tooltip="Published works"
         >
-          Contact
+          Publications
         </a>
       
     
       
         <a
-          href="/vim-web/inter-lab-meeting/"
-          data-tooltip="Published works"
+          href="/vim-web/contact/"
+          data-tooltip="Email, address, and location"
         >
-          Publications
+          Contact
         </a>
       
     
