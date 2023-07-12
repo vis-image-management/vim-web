@@ -29,7 +29,7 @@
   subtitle: a subtitle
   image: images/rendering.jpg
   link: 
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Multi-resolution rendering algorithms and tools to display large and mutliplexed 2D and 3D imaging data in the web.
   repo: 
   tags:
     - visualization
