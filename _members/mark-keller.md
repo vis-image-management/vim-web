@@ -1,6 +1,6 @@
 ---
 name: Mark Keller
-image: images/photo.jpg
+image: images/mark-keller.jpg
 role: Organizer
 group: Organizer
 links:
