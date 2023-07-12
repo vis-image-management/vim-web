@@ -5,7 +5,7 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-wrench" %}Topics
 
 We address topics ranging from classical rendering and visualization of large imaging and spatially referenced feature data to data management topics concerning multiplexed image formats, standards, and platforms hosting.
 
