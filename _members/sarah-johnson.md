@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Allison Maier
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Organizer
+role: Organizer
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email:Allison_Maier@hms.harvard.edu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Allison Maier is a data curator at the Laboratory of Aystems Pharmacology at Harvard Medical School. Her interests lie in metadata and ontologies, information organization, and workflow improvement
