@@ -59,12 +59,11 @@ We held a monthly online meeting with scientific presentations and lively intert
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We consist of multiple University instiutions, hospitals and open source partners from the USA and Europe.
 {%
   include button.html
   link="team"
-  text="Meet our team"
+  text="Members"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -74,8 +73,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/members.jpg"
   link="team"
-  title="Our Team"
+  title="Members"
   text=text
 %}
