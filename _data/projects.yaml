@@ -15,7 +15,7 @@
   subtitle: Formats, Standards, Platforms
   group: featured
   image: images/management.jpg
-  link: https://github.com/
+  link: 
   description: Image (and associated meta and feature data) formats and standards to plaforms and hosting.
   repo: 
   tags:
@@ -27,36 +27,40 @@
 - title: Rendering
   subtitle: a subtitle
   image: images/photo.jpg
-  link: https://github.com/
+  link: 
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
-    - resource
-    - publication
+    - visualization
+    - rendering
 
-- title: Info Vis
-  subtitle: Visualization of Referenced Feature Data
+- title: Visual Encoding & Perception
+  subtitle: Color, Visual Mappings, etc.
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We address challenges to map (imaging) data features to visual primitives, including position, size, shape, hue, orientation, texture, etc..
+  repo: 
   tags:
-    - software
+    - visualization
+    - perception
+    - visual encoding
 
 - title: Image Viewers
   subtitle: Scalable Image Browsing
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We develop, categorize, and discuss web-based an desktop-based 2D and 3D image viewers. A special focus lies on handling large and multiplexed imaging data.
   repo: greenelab/lab-website-template
   tags:
-    - software
+    - visualization
+    - viewers
 
 - title: Visual Analytics
   subtitle: Intelligent (Vis+ML) Interfaces
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: 
+  description: Visual analytics concerns visual interfaces that combine visualization with automatic analysis approaches through interaction.
+  repo: 
   tags:
-    - software
+    - visualization
+    - viual analytics
