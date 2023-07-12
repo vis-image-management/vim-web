@@ -2,7 +2,7 @@
 name: Laboratory of Systems Pharmacology
 image: images/lsp.jpg
 description: Research Lab at Harvard Medical School (HMS)
-role: Member
+role: member
 links:
   home-page: [https://kruegert.github.io/](https://labsyspharm.org/)
 
