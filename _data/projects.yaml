@@ -27,7 +27,7 @@
 
 - title: Rendering
   subtitle: a subtitle
-  image: images/photo.jpg
+  image: images/rendering.jpg
   link: 
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: 
@@ -37,7 +37,7 @@
 
 - title: Visual Encoding & Perception
   subtitle: Color, Visual Mappings, etc.
-  image: images/photo.jpg
+  image: images/perception.jpg
   link: https://github.com/
   description: We address challenges to map (imaging) data features to visual primitives, including position, size, shape, hue, orientation, texture, etc..
   repo: 
