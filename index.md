@@ -20,6 +20,7 @@ We address topics ranging from classical rendering and visualization of large im
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
+  dark=true
 %}
 
 {% endcapture %}
