@@ -2,7 +2,7 @@
   subtitle: Vis, Rendering, Visual Interfaces
   group: featured 
   image: images/visualization.jpg
-  link: https://github.com/
+  link: 
   description: Scalable and multi-resolution rendering of 2D and 3D multiplexed imaging data, information visualization, as well as image viewers and visual analytics interfaces.
   repo: 
   tags:
@@ -38,7 +38,7 @@
 - title: Visual Encoding & Perception
   subtitle: Color, Visual Mappings, etc.
   image: images/perception.jpg
-  link: https://github.com/
+  link: 
   description: We address challenges to map (imaging) data features to visual primitives, including position, size, shape, hue, orientation, texture, etc..
   repo: 
   tags:
@@ -49,9 +49,9 @@
 - title: Image Viewers
   subtitle: Scalable Image Browsing
   image: images/viewers.jpg
-  link: https://github.com/
+  link: 
   description: We develop, categorize, and discuss web-based an desktop-based 2D and 3D image viewers. A special focus lies on handling large and multiplexed imaging data.
-  repo: greenelab/lab-website-template
+  repo: 
   tags:
     - visualization
     - viewers
