@@ -9,4 +9,4 @@ tags:
 ---
 
 Today's talk will be given by the Swedlow Lab. Title: "OME’s and Glencoe’s work on NGFF file formats".
-Join us at 11 AM ET via Zoom. To join meetings you can apply to become a member [here](https://vis-image-management.github.io/vim-web/contact/).
+Please join us on Friday 10/28/21 at 11 AM ET via Zoom.
