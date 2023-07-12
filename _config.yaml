@@ -31,7 +31,7 @@ defaults:
       type: "members"
     values:
       layout: member
-    - scope:
+  - scope:
       type: "orgas"
     values:
       layout: member
@@ -44,6 +44,9 @@ defaults:
 collections:
   # generate page for each member
   members:
+    output: true
+  # generate page for each orga
+  orgas:
     output: true
   # generate page for each post
   posts:
