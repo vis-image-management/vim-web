@@ -4,7 +4,7 @@ image: images/lsp.jpg
 description: Research Lab at Harvard Medical School (HMS)
 role: member
 links:
-  home-page: [https://kruegert.github.io/](https://labsyspharm.org/)
+  home-page: https://labsyspharm.org/
 
 ---
 
