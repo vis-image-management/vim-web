@@ -1,7 +1,7 @@
 - title: Visualization
   subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
+  group: Vis, Rendering, Visual Interfaces
+  image: images/visualization.jpg
   link: https://github.com/
   description: Our visualization topics concern scalable and multi-resolution rendering of 2D and 3D multiplexed imaging data, information visualization of spatially referenced data, as well as image viewers and visual analytics interfaces.
   repo: 
@@ -12,9 +12,9 @@
     - visual analytics
 
 - title: Image Data Management
-  subtitle: a subtitle
+  subtitle: Formats, Standards, Platforms
   group: featured
-  image: images/photo.jpg
+  image: images/management.jpg
   link: https://github.com/
   description: We cover topics ranging from image (and associated meta and feature data) formats and standards to plaforms and hosting.
   repo: 
@@ -24,7 +24,7 @@
     - platforms
     - hosting
 
-- title: Cool Tutorial
+- title: Rendering
   subtitle: a subtitle
   image: images/photo.jpg
   link: https://github.com/
