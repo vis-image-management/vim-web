@@ -2,7 +2,7 @@
 name: Mark Keller
 image: images/mark-keller.jpg
 role: Organizer
-group: Organizer
+description: Organizer
 links:
   github: keller-mark
 ---
