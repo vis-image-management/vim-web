@@ -1,22 +1,28 @@
-- title: Cool Dataset
+- title: Visualization
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: Our visualization topics concern scalable and multi-resolution rendering of 2D and 3D multiplexed imaging data, information visualization of spatially referenced data, as well as image viewers and visual analytics interfaces.
+  repo: 
   tags:
-    - resource
+    - visualization
+    - rendering
+    - viewers
+    - visual analytics
 
-- title: Cool Package
+- title: Image Data Management
   subtitle: a subtitle
   group: featured
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  description: We cover topics ranging from image (and associated meta and feature data) formats and standards to plaforms and hosting.
+  repo: 
   tags:
-    - resource
+    - formats
+    - standards
+    - platforms
+    - hosting
 
 - title: Cool Tutorial
   subtitle: a subtitle
