@@ -1,5 +1,5 @@
 ---
-name: Brugham and Women's Hospital
+name: Brigham and Women's Hospital
 image: images/brigham.png
 description: Hospital of Harvard Medical School
 role: member
