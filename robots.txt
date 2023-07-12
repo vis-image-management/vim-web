@@ -1,0 +1,1 @@
+Sitemap: /vim-web/sitemap.xml
