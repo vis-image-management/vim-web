@@ -34,8 +34,8 @@
     - resource
     - publication
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: Info Vis
+  subtitle: Visualization of Referenced Feature Data
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -43,8 +43,17 @@
   tags:
     - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Image Viewers
+  subtitle: Scalable Image Browsing
+  image: images/photo.jpg
+  link: https://github.com/
+  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  repo: greenelab/lab-website-template
+  tags:
+    - software
+
+- title: Visual Analytics
+  subtitle: Intelligent (Vis+ML) Interfaces
   image: images/photo.jpg
   link: https://github.com/
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
