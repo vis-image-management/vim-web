@@ -15,12 +15,12 @@ We address topics ranging from classical rendering and visualization of large im
 
 {% include section.html %}
 
-## Featured
+## Topic Categories
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Selected Topics
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
