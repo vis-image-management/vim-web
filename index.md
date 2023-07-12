@@ -11,12 +11,12 @@ VIM (Visualization and Image Data Management) is an interdisciplinary academic a
 
 {% capture text %}
 
-VIM (Visualization and Image Data Management) is an interdisciplinary academic association working together on visualization and image data management topics for bioemdical imaging and analysis. We aim to connect research labs, university hospitals, and open source partners. Its mission is to provide a platform for research and educational exchange and to join efforts in developing and standardizing data formats, platforms and interfaces for analyzing and communicating biomedical imaging data.
+We address topics ranging from classical rendering and visualization of large imaging and spatially referenced feature data to data management topics concerning multiplexed image formats, standards, and platforms hosting.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="topics"
+  text="See our topics"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -28,7 +28,7 @@ VIM (Visualization and Image Data Management) is an interdisciplinary academic a
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Topics"
   text=text
 %}
 
