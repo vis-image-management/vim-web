@@ -11,7 +11,7 @@ The VIM association currently consists of research institutions, hospital, and o
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: member: true" %}
+{% include list.html data="members" component="portrait" filters="role: member" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
