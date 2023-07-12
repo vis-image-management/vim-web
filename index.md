@@ -1,7 +1,7 @@
 ---
 ---
 
-# vis-image-management's Website
+# Who We Are
 
 An engaging 1-3 sentence description of your lab.
 
