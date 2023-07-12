@@ -1,6 +1,6 @@
 ---
 name: Allison Maier
-image: images/photo.jpg
+image: images/allison-maier.jpg
 description: Organizer
 role: Organizer
 links:
