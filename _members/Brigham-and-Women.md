@@ -1,6 +1,6 @@
 ---
 name: Brugham and Women's Hospital
-image: images/brigham.jpg
+image: images/brigham.png
 description: Hospital of Harvard Medical School
 role: member
 links:
