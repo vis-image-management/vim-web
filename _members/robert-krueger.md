@@ -1,6 +1,6 @@
 ---
 name: Robert Krueger
-image: images/photo.jpg
+image: images/robert-krueger.jpg
 description: Lead Organizer
 role: organizer
 links:
