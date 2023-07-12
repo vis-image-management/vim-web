@@ -13,20 +13,17 @@ Together Allison, Mark, and Robert organize the VIM association, including plann
 
 {%
   include portrait.html
-  lookup="robert-krueger"
-  style="small"
-%}
-
-{%
-  include portrait.html
   lookup="allison-maier"
-  style="small"
 %}
 
 {%
   include portrait.html
   lookup="mark-keller"
-  style="small"
+%}
+
+{%
+  include portrait.html
+  lookup="robert-krueger"
 %}
 
 {% include section.html background="images/background.jpg" dark=true %}
