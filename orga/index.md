@@ -1,5 +1,5 @@
 ---
-title: Meet the Orga Team
+title: Orga
 nav:
   order: 3
   tooltip: Organizers
