@@ -35,8 +35,7 @@ We address topics ranging from classical rendering and visualization of large im
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We held a monthly online meeting with scientific presentations and lively intertwined discussions from one of the joining labs. The presentations concern one of our core topics. 
 {%
   include button.html
   link="projects"
@@ -50,9 +49,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/meeting.jpg"
+  link="inter-lab-meeting"
+  title="Monthly Meeting"
   flip=true
   style="bare"
   text=text
