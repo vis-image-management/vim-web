@@ -65,3 +65,34 @@
   tags:
     - visualization
     - viual analytics
+
+- title: Image Formats
+  subtitle: Multiplex Bio-Image Formats
+  image: images/formats.jpg
+  link: 
+  description: We develop and discuss next-generation file formats to represent bioimaging data allowing for advanced image data storage, loading, managing, and procesing.
+  repo: 
+  tags:
+    - management
+    - formats
+
+- title: Standards
+  subtitle: Image Data, Image-Derived Features, and Meta-Data
+  image: images/standards.jpg
+  link: 
+  description: Standards that specify how to store imaging and associated metadata resoulting from imaging, image processing, and analysis.
+  repo: 
+  tags:
+    - management
+    - standards
+
+- title: Platforms and Hosting
+  subtitle: Making Data anad Analysis Results Available
+  image: images/platforms.jpg
+  link: 
+  description: We develop and discuss platforms and hosting options to make imaging and associated data available in the web.
+  repo: 
+  tags:
+    - management
+    - platforms
+    - hosting
