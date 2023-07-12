@@ -48,7 +48,7 @@
 
 - title: Image Viewers
   subtitle: Scalable Image Browsing
-  image: images/photo.jpg
+  image: images/viewers.jpg
   link: https://github.com/
   description: We develop, categorize, and discuss web-based an desktop-based 2D and 3D image viewers. A special focus lies on handling large and multiplexed imaging data.
   repo: greenelab/lab-website-template
@@ -58,7 +58,7 @@
 
 - title: Visual Analytics
   subtitle: Intelligent (Vis+ML) Interfaces
-  image: images/photo.jpg
+  image: images/va.jpg
   link: 
   description: Visual analytics concerns visual interfaces that combine visualization with automatic analysis approaches through interaction.
   repo: 
