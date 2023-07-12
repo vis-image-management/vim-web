@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: Meet the Orga Team
 nav:
   order: 3
   tooltip: Organizers
@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Together Allison, Mark, and Robert organize the VIM association, including planning, hosting meetings, outreach, and document management.
 
 {% include section.html %}
 
