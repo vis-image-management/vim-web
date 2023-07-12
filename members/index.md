@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Te VIM association currently consists of research institutions, hospital, and open source partners from the USA and Europe. We want tyo encourage You to apply for becoming a member if you share our interests and skills and feel you can benefit but also actively contribute to the community.
 
 {% include section.html %}
 
