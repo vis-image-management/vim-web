@@ -13,8 +13,23 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="orgas" component="portrait" filters="role: pi" %}
-{% include list.html data="orgas" component="portrait" filters="role: ^(?!pi$)" %}
+{%
+  include portrait.html
+  lookup="robert-krueger"
+  style="small"
+%}
+
+{%
+  include portrait.html
+  lookup="allison-maier"
+  style="small"
+%}
+
+{%
+  include portrait.html
+  lookup="mark-keller"
+  style="small"
+%}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
