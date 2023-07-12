@@ -602,6 +602,15 @@ RU5ErkJggg==" />
     
       
         <a
+          href="/vim-web/blog/"
+          data-tooltip="Monthly Meeting Schedule"
+        >
+          Monthly Meeting
+        </a>
+      
+    
+      
+        <a
           href="/vim-web/topics/"
           data-tooltip="Software, datasets, and more"
         >
@@ -624,15 +633,6 @@ RU5ErkJggg==" />
           data-tooltip="About our team"
         >
           Members
-        </a>
-      
-    
-      
-        <a
-          href="/vim-web/blog/"
-          data-tooltip="Musings and miscellany"
-        >
-          News
         </a>
       
     
