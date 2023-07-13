@@ -39,7 +39,7 @@ We organize one-hour monthly online meetings with scientific presentations and l
 {%
   include button.html
   link="topics"
-  text="Browse our topics"
+  text="Browse our Meeting Schedule"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
