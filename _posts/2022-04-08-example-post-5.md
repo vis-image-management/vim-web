@@ -1,5 +1,5 @@
 ---
-title: 6th Meeting
+title: 6th Meeting "Multiplexed Image Viewers"
 author: Andriy Fedorov, Markus Herrmann, John Hoffer, Robert Krueger, Trevor Manz, Jeremy Muhlich, Steve Pieper, Clarence Yapp
 tags: tools, visualization, platforms
 ---
