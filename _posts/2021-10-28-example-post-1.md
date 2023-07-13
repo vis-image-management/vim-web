@@ -1,5 +1,5 @@
 ---
-title: 1st Meeting:  OME’s and Glencoe’s work on NGFF file formats
+title: 1st Meeting "OME’s and Glencoe’s work on NGFF file formats"
 
 author: Sebastién Besson, Josh Moore
 
