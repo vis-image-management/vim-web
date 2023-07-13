@@ -1,5 +1,5 @@
 ---
-title: 11th Meeting "Education and Training for Visualization Tools"
+title: 16th Meeting "Education and Training for Visualization Tools"
 author: Han Xu
 tags: visual analytics, viewers, platforms, visualization
 ---
