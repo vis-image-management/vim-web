@@ -1,5 +1,5 @@
 ---
-title: 5th Meeting
+title: 5th Meeting "Image rendering. Perceptual and technical issues"
 author: Jeremy Muhlich (lead), Nils Gehlenborg, Nhan Huynh, and Robert Krueger
 tags: tools, formats, management, standards
 ---
