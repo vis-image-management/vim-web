@@ -1,5 +1,5 @@
 ---
-title: 19th Meeting "VR, data storytelling, AI: more than a fad for visual analytics of hi-plex imaging data?"
+title: 19th Meeting "VR, data storytelling, AI - more than a fad for visual analytics of hi-plex imaging data?"
 author: Damir Sudar (OHSU & CSO of Quantitative Imaging Systems LLC), Jason Marsh (CEO of Flow Immersive Inc.)
 tags: visual analytics, tools, viewers
 ---
