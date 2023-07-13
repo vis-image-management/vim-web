@@ -1,5 +1,5 @@
 ---
-title: 11th Meeting
+title: 11th Meeting "Spatial Visual Analysis"
 author: Simon Warchol, Markus Herrmann
 tags: visual analytics, viewers, platforms, visualization
 ---
