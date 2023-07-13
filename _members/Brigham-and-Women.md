@@ -1,7 +1,7 @@
 ---
 name: Brigham and Women's Hospital
 image: images/brigham.png
-description: Hospital of Harvard Medical School
+description: Harvard Medical School
 role: member
 links:
   home-page: https://www.brighamandwomens.org/
