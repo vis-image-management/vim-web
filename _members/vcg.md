@@ -1,7 +1,7 @@
 ---
 name: Visual Computing Group
 image: images/vcg.jpg
-description: Research Lab at Paulson School of Engineering, Harvard University
+description: Harvard University
 role: member
 links:
   home-page: https://vcg.seas.harvard.edu/
