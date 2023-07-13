@@ -50,7 +50,7 @@ We held a monthly online meeting with scientific presentations and lively intert
 {%
   include feature.html
   image="images/meeting.jpg"
-  link="inter-lab-meeting"
+  link="blog"
   title="Monthly Meeting"
   flip=true
   style="bare"
