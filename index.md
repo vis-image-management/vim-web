@@ -35,7 +35,7 @@ We address topics ranging from classical rendering and visualization of large im
 
 {% capture text %}
 
-We held a monthly online meeting with scientific presentations and lively intertwined discussions from one of the joining labs. The presentations concern one of our core topics. 
+We organize one-hour monthly online meetings with scientific presentations and lively intertwined discussions from one of the joining labs. The presentations concern one of our core topics. 
 {%
   include button.html
   link="topics"
