@@ -1,5 +1,5 @@
 ---
-title: 6th Meeting
+title: 6th Meeting "Viewers for Multiplexed 3D Imaging Data"
 author: Clarence Yappo, Ilan Gold, Lukas Herzberger, Steve Pieper
 
 ---
