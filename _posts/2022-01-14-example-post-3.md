@@ -1,5 +1,5 @@
 ---
-title: 4th Meeting
+title: 4th Meeting "NCI Imaging Data Commons: Approach, status, related tools"
 author: Fedorov Group
 tags: tools, formats, management, standards
 ---
