@@ -1,5 +1,5 @@
 ---
-title: 3rd Meeting
+title: 3rd Meeting: Minerva - Multiplexed Tissue Visualization for Interactive Data Stories and Data Analysi
 author: John Hoffer, Jeremy Muhlich, Robert Krueger
 ---
 
