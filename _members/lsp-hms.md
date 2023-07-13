@@ -1,7 +1,7 @@
 ---
 name: Laboratory of Systems Pharmacology
 image: images/lsp.jpg
-description: Research Lab at Harvard Medical School (HMS)
+description: Harvard Medical School (HMS)
 role: member
 links:
   home-page: https://labsyspharm.org/
