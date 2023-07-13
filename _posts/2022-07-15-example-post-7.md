@@ -1,5 +1,5 @@
 ---
-title: 7th Meeting "MITI: Minimum Information Guidelines for Highly Multiplexed Tissue Images"
+title: 7th Meeting "MITI - Minimum Information Guidelines for Highly Multiplexed Tissue Images"
 author: Sarah Arena
 tags: tools, standards, formats, management
 ---
