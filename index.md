@@ -38,8 +38,8 @@ We address topics ranging from classical rendering and visualization of large im
 We held a monthly online meeting with scientific presentations and lively intertwined discussions from one of the joining labs. The presentations concern one of our core topics. 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="topics"
+  text="Browse our topics"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -62,7 +62,7 @@ We held a monthly online meeting with scientific presentations and lively intert
 We consist of multiple University instiutions, hospitals and open source partners from the USA and Europe.
 {%
   include button.html
-  link="team"
+  link="members"
   text="Members"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -74,7 +74,7 @@ We consist of multiple University instiutions, hospitals and open source partner
 {%
   include feature.html
   image="images/members.jpg"
-  link="team"
+  link="members"
   title="Members"
   text=text
 %}
