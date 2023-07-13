@@ -1,5 +1,5 @@
 ---
-title: 8th Meeting
+title: 8th Meeting "Connecting Pipeline Outputs to Viewer Inputs"
 author: Mark Keller, Jeremy Muhlich
 tags: tools, standards, formats, management
 ---
