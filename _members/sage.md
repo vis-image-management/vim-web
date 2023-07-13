@@ -1,6 +1,6 @@
 ---
 name: Sage Bionetworks
-image: images/sage.jpg
+image: images/sage.png
 description: Data Coordination Center for HTAN
 role: member
 links:
