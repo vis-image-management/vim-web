@@ -9,3 +9,4 @@ links:
 ---
 
 Brigham and Women's Hospital is one of the top hospitals in America with more than 790 beds, and a premier teaching hospital of Harvard Medical School.
+Different labs/PIs at Brigham and Women join and contribute to our meeting series.
