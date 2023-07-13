@@ -43,17 +43,17 @@
 <link rel="icon" href="/vim-web/images/icon.png">
 
 <meta name="title" content="Swedlow Lab">
-<meta name="description" content="Research Lab at University of Dundee">
+<meta name="description" content="University of Dundee">
 
 <meta property="og:title" content="Swedlow Lab">
 <meta property="og:site_title" content="visualization and image data management">
-<meta property="og:description" content="Research Lab at University of Dundee">
+<meta property="og:description" content="University of Dundee">
 <meta property="og:url" content="">
 <meta property="og:image" content="/vim-web/images/share.jpg">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Swedlow Lab">
-<meta property="twitter:description" content="Research Lab at University of Dundee">
+<meta property="twitter:description" content="University of Dundee">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="/vim-web/images/share.jpg">
@@ -69,7 +69,7 @@
       "@type": "WebSite",
     
     "name": "Swedlow Lab",
-    "description": "Research Lab at University of Dundee",
+    "description": "University of Dundee",
     "headline": "Swedlow Lab",
     "publisher": {
       "@type": "Organization",
@@ -705,7 +705,7 @@ RU5ErkJggg==" />
           <span class="portrait-role">
             
             <i class="icon fa-solid fa-glasses"></i>
-            <span>Research Lab at University of Dundee</span>
+            <span>University of Dundee</span>
           </span>
         
       </span>
