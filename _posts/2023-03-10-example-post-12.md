@@ -1,5 +1,5 @@
 ---
-title: 15th Meeting "Scrollytelling in medical communication"
+title: 15th Meeting "Scrollytelling in Medical Communication"
 author: Eric Moerth
 tags: visual-analytics, viewers, platforms, visualization
 ---
