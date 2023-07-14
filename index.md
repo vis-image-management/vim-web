@@ -73,7 +73,7 @@ We consist of multiple University instiutions, hospitals and open source partner
 
 {%
   include feature.html
-  image="images/members.jpg"
+  image="images/memberlogos.jpg"
   link="members"
   title="Members"
   text=text
