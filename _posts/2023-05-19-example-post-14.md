@@ -1,5 +1,5 @@
 ---
-title: 17th Meeting "WebAtlas pipeline for integrated single cell and spatial transcriptomic data"
+title: 17th Meeting "WebAtlas Pipeline for Integrated Single Cell and Spatial Transcriptomic Data"
 author: Omer Bayraktar, Tong Li, David Horsfall (Wellcome Sanger Institute, Newcastle University)
 tags: tools, viewers, platforms, formats, management
 ---
