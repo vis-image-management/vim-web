@@ -8,9 +8,3 @@ links:
 ---
 
 The Visual Computing Group, led by Hanspeter Pfister, explores and provides visual analysis tools and methods to help scientists and researchers better process and understand large, multi-dimensional data sets in various domains such as neuroscience, genomics, systems biology, astronomy, and medicine.
-
-{%
-  include portrait.html
-  lookup="robert-krueger"
-  style="small"
-%}
