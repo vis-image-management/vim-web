@@ -1,7 +1,7 @@
 ---
-name:  NYU
+name:  VIDA - Visualization Imaging and Data Analysis Center
 image: images/nyu.jpg
-description:  New York University, VIDA - Visualization Imaging and Data Analysis Center
+description: New York University
 role: member
 links:
   home-page: https://vida.engineering.nyu.edu/
