@@ -1,6 +1,6 @@
 ---
 name:  NYU
-image: images/ohsu.jpg
+image: images/nyu.jpg
 description:  New York University, VIDA - Visualization Imaging and Data Analysis Center
 role: member
 links:
