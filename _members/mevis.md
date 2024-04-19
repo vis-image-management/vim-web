@@ -1,7 +1,7 @@
 ---
 name: MEVIS
 image: images/mevis.png
-description: Fraunhofer Institute for Digital Medicine MEVIS
+description: Fraunhofer Institute for Digital Medicine
 role: member
 links:
   home-page: https://www.mevis.fraunhofer.de
