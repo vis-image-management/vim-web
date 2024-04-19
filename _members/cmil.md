@@ -1,6 +1,6 @@
 ---
 name: CMIL
-image: images/cmil.png
+image: images/CMIL.png
 description: Computational Microscopy Imaging Laboratory, University of Florida
 role: member
 links:
