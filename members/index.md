@@ -24,3 +24,5 @@ The VIM meeting series is frequently attended by research institutions, hospital
 {% endcapture %}
 
 {% include grid.html style="square" content=content %}
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdg69cNsI4Qw3ZbrrmHTBFv-x2tgz2PmLt55qBibZL6Ju9lWw/viewform?embedded=true" width="640" height="1579" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

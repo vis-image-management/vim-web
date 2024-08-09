@@ -44,6 +44,8 @@ collections:
   # generate page for each post
   posts:
     output: true
+    future: true # include future-dated posts https://github.com/jekyll/jekyll/issues/6536
+
 
 # jekyll plugins
 plugins:
