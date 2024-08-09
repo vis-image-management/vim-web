@@ -1,0 +1,595 @@
+<!DOCTYPE html>
+<html lang="en" data-dark="false">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <!--
+  put your analytics (e.g. Google Analytics) tracking code here
+-->
+
+  <!--
+  put your search engine verification (e.g. Google Search Console) tag here
+-->
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>MEVIS | visualization and image data management</title>
+
+<link rel="icon" href="/vim-web/preview/pr-2/images/icon.png">
+
+<meta name="title" content="MEVIS">
+<meta name="description" content="Fraunhofer Institute for Digital Medicine">
+
+<meta property="og:title" content="MEVIS">
+<meta property="og:site_title" content="visualization and image data management">
+<meta property="og:description" content="Fraunhofer Institute for Digital Medicine">
+<meta property="og:url" content="">
+<meta property="og:image" content="/vim-web/preview/pr-2/images/share.jpg">
+<meta property="og:locale" content="en_US">
+
+<meta property="twitter:title" content="MEVIS">
+<meta property="twitter:description" content="Fraunhofer Institute for Digital Medicine">
+<meta property="twitter:url" content="">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:image" content="/vim-web/preview/pr-2/images/share.jpg">
+
+
+  <meta property="og:type" content="website">
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "WebSite",
+    
+    "name": "MEVIS",
+    "description": "Fraunhofer Institute for Digital Medicine",
+    "headline": "MEVIS",
+    "publisher": {
+      "@type": "Organization",
+      "logo": { "@type": "ImageObject", "url": "/vim-web/preview/pr-2/images/icon.png" }
+    },
+    "url": ""
+  }
+</script>
+
+<link rel="alternate" type="application/rss+xml" href="/vim-web/preview/pr-2/feed.xml">
+
+  <!-- Google Fonts -->
+<!-- automatically get url from fonts used in theme file -->
+
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?display=swap&&family=Barlow:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600&amp;family=Roboto+Mono:ital,wght@0,200;0,400;0,500;0,600;1,200;1,400;1,500;1,600" rel="stylesheet">
+
+<!-- Font Awesome icons (load asynchronously due to size) -->
+
+<link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="preload" as="style" onload="this.onload = null; this.rel = 'stylesheet';">
+<noscript>
+  <link href="https://use.fontawesome.com/releases/v6.3.0/css/all.css" rel="stylesheet">
+</noscript>
+
+  <!-- third party styles -->
+<!-- https://stylishthemes.github.io/Syntax-Themes/pygments/ -->
+<link href="https://cdn.jsdelivr.net/gh/StylishThemes/Syntax-Themes/pygments/css-github/pygments-tomorrow-night-eighties.css" rel="stylesheet">
+
+<!-- include all sass in styles folder -->
+
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/-theme.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/alert.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/all.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/anchor.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/background.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/body.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/bold.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/button.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/card.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/checkbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/citation.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/code.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/cols.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/dark-toggle.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/feature.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/figure.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/float.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/font.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/footer.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/form.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/grid.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/header.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/heading.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/highlight.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/icon.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/image.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/link.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/list.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/main.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/paragraph.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/portrait.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/post-excerpt.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/post-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/post-nav.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/quote.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/rule.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/search-box.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/search-info.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/section.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/table.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/tags.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/textbox.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/tooltip.css" rel="stylesheet">
+  
+
+  
+    <link href="/vim-web/preview/pr-2/_styles/util.css" rel="stylesheet">
+  
+
+
+<!-- include all css in styles folder -->
+
+
+
+  <!-- third party scripts -->
+<script src="https://unpkg.com/@popperjs/core@2" defer></script>
+<script src="https://unpkg.com/tippy.js@6" defer></script>
+<script src="https://unpkg.com/mark.js@8" defer></script>
+
+<!-- include all js in scripts folder -->
+
+
+  <script src="/vim-web/preview/pr-2/_scripts/anchors.js"></script>
+
+  <script src="/vim-web/preview/pr-2/_scripts/dark-mode.js"></script>
+
+  <script src="/vim-web/preview/pr-2/_scripts/fetch-tags.js"></script>
+
+  <script src="/vim-web/preview/pr-2/_scripts/search.js"></script>
+
+  <script src="/vim-web/preview/pr-2/_scripts/site-search.js"></script>
+
+  <script src="/vim-web/preview/pr-2/_scripts/tooltip.js"></script>
+
+
+</head>
+
+  <body>
+    
+
+
+
+
+
+
+
+<header class="background" style="--image: url('/vim-web/preview/pr-2/images/background.jpg')" data-dark="true">
+  <a href="/vim-web/preview/pr-2/" class="home">
+    
+      <span class="logo">
+        
+          <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="491px" height="266px" viewbox="0 0 491 266" enable-background="new 0 0 491 266" xml:space="preserve">  <image id="image0" width="491" height="266" x="0" y="0" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAesAAAEKCAMAAAAFNY20AAAABGdBTUEAALGPC/xhBQAAACBjSFJN%0AAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAC/VBMVEUAAAD/AAD/////AAD/%0AAAD/AAD/AAAAAP//AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/AAD/%0AAAD/AAAAAP////9bc+XZAAAA/HRSTlMAAADaLcvXQIh9I3szznkh3x/TxY1wKGk4wYL7EwHk/RbY%0A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%0ARU5ErkJggg=="></image>
+</svg>
+
+        
+      </span>
+    
+    
+      <span class="title" data-tooltip="Home">
+        
+          <span>visualization and image data management</span>
+        
+        
+      </span>
+    
+  </a>
+
+  <input class="nav-toggle" type="checkbox" aria-label="show/hide nav">
+
+  <nav>
+    
+    
+      
+        <a href="/vim-web/preview/pr-2/blog/" data-tooltip="Monthly Meeting Schedule">
+          Monthly Meeting
+        </a>
+      
+    
+      
+        <a href="/vim-web/preview/pr-2/topics/" data-tooltip="Software, datasets, and more">
+          Topics
+        </a>
+      
+    
+      
+        <a href="/vim-web/preview/pr-2/members/" data-tooltip="About our team">
+          Members
+        </a>
+      
+    
+      
+        <a href="/vim-web/preview/pr-2/orga/" data-tooltip="Organizers">
+          Orga
+        </a>
+      
+    
+      
+        <a href="/vim-web/preview/pr-2/contact/" data-tooltip="Email, address, and location">
+          Contact
+        </a>
+      
+    
+  </nav>
+</header>
+
+    <main>
+      <!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - wrap each table in div to allow for scrolling
+  - filter out blank sections
+-->
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <div class="float">
+  
+<div class="portrait-wrapper">
+  <a class="portrait" data-style="" aria-label="MEVIS">
+    <img src="/vim-web/preview/pr-2/images/mevis.png" class="portrait-image" alt="member portrait" loading="lazy" onerror="this.src = '/vim-web/preview/pr-2/images/fallback.svg'; this.onerror = null;">
+
+    
+      <span class="portrait-text">
+        
+          <span class="portrait-name">
+            MEVIS
+          </span>
+        
+
+        
+          <span class="portrait-role">
+            
+            <i class="icon fa-solid fa-glasses"></i>
+            <span>Fraunhofer Institute for Digital Medicine</span>
+          </span>
+        
+      </span>
+    
+  </a>
+</div>
+
+<div>
+  
+    
+    
+    
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://www.mevis.fraunhofer.de" data-tooltip="Home page" data-style="bare" aria-label="Home page">
+      <i class="icon fa-solid fa-house-user"></i>
+      
+        <span>Home Page</span>
+      
+    </a>
+  </div>
+
+<br>
+  
+</div>
+
+
+</div>
+
+
+<p>Embedded in a worldwide network of clinical and academic partners, Fraunhofer MEVIS develops real-world software solutions for image and data supported early detection, diagnosis, and therapy. Strong focus is placed on cancer as well as diseases of the circulatory system, brain, breast, liver, and lung. The goal is to detect diseases earlier and more reliably, tailor treatments to each individual, and make therapeutic success more measurable.
+In addition, the institute develops software systems for industrial partners to undertake image-based studies to determine the effectiveness of medicine and contrast agents. To reach its goals, Fraunhofer MEVIS works closely with medical technology and pharmaceutical companies, providing solutions for the entire chain of development from applied research to certified medical products.</p>
+
+
+
+
+
+
+<p class="center">
+  <a href="/vim-web/preview/pr-2/research/?search=%22MEVIS%22%20">
+    Search for MEVIS's papers on the Research page
+  </a>
+</p>
+
+
+
+<!--
+<p class="center">
+  <a href="/vim-web/preview/pr-2/blog/?search=MEVIS">
+    See MEVIS's posts on the Blog page
+  </a>
+</p>
+-->
+  </section>
+
+
+    </main>
+    
+
+
+<footer class="background" style="--image: url('/vim-web/preview/pr-2/images/background.jpg')" data-dark="true" data-size="wide">
+  <!--
+    <div>
+      Extra details like contact info or address
+    </div>
+  -->
+
+  <div>
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="mailto:krueger@g.harvard.edu" data-tooltip="Email" data-style="bare" aria-label="Email">
+      <i class="icon fa-solid fa-envelope"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://orcid.org/0000-0001-8713-9213" data-tooltip="ORCID" data-style="bare" aria-label="ORCID">
+      <i class="icon fa-brands fa-orcid"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://scholar.google.com/citations?user=ETJoidYAAAAJ" data-tooltip="Google Scholar" data-style="bare" aria-label="Google Scholar">
+      <i class="icon fa-brands fa-google"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://github.com/vis-image-management" data-tooltip="GitHub" data-style="bare" aria-label="GitHub">
+      <i class="icon fa-brands fa-github"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://twitter.com/vis-image-management" data-tooltip="Twitter" data-style="bare" aria-label="Twitter">
+      <i class="icon fa-brands fa-twitter"></i>
+      
+    </a>
+  </div>
+
+
+    
+      
+      
+      
+
+
+
+  <div class="button-wrapper">
+    <a class="button" href="https://youtube.com/vis-image-management" data-tooltip="YouTube" data-style="bare" aria-label="YouTube">
+      <i class="icon fa-brands fa-youtube"></i>
+      
+    </a>
+  </div>
+
+
+    
+  </div>
+
+  <div>
+    © 2024
+    visualization and image data management
+      |   Built with
+    <a href="https://github.com/greenelab/lab-website-template">
+      Lab Website Template
+    </a>
+  </div>
+
+  <input type="checkbox" class="dark-toggle" data-tooltip="Dark mode" aria-label="toggle dark mode" oninput="onDarkToggleChange(event)">
+</footer>
+
+  </body>
+</html>
