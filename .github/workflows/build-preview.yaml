@@ -8,6 +8,9 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
+  pull_request:
+  push:
+
 # variables
 env:
   PREVIEWS_FOLDER: preview
