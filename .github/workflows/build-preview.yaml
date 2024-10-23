@@ -8,6 +8,9 @@ on:
   # run if user manually requests it
   workflow_dispatch:
 
+  pull_request:
+  push:
+
 # variables
 env:
   PREVIEWS_FOLDER: preview
@@ -35,7 +38,7 @@ jobs:
         if: github.event.action != 'closed'
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: "3.0"
+          ruby-version: '3.3'
           bundler-cache: true
 
       - name: Get Pages url
@@ -48,7 +51,7 @@ jobs:
       - name: Build preview version of site
         if: github.event.action != 'closed'
         run: |
-          JEKYLL_ENV=production bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
+          JEKYLL_ENV=production bundle exec jekyll build --future --baseurl "${{ steps.pages.outputs.base_path || '' }}/${{ env.PREVIEWS_FOLDER }}/pr-${{ github.event.number }}"
 
       - name: Commit preview to Pages branch
         uses: rossjrw/pr-preview-action@v1
